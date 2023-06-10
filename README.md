@@ -5,8 +5,8 @@ Hello there, I'm Shishir and I'm currently a second-year CS major at UCSD. I enj
 
 Links:
 ---------
- - [Resume](shishir_iyer_resume_v10.pdf)
+ - [Resume](shishir_iyer_resume_v14.pdf)
  - [Linkedin](https://www.linkedin.com/in/shishir-iyer-1973ba1a5/)
  - I also take pictures of space and post them on [Instagram](https://www.instagram.com/shishiriyer_photography/)
 
-I apologize for any and all cursed code that you might find here.
+If you don't like looking at cursed code, this is your final warning to click off right now.
