@@ -1,7 +1,7 @@
 Shishir Iyer's Github
 ====================
 
-Hello there, I'm Shishir and I'm a fourth-year CS major at UCSD. I enjoy working on random projects; my favorites are pinned below.
+Hello there, I'm Shishir and I'm an incoming CS masters student at UCSD. I enjoy working on random projects; my favorites are pinned below.
 
 Links:
 ---------
