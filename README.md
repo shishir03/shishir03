@@ -1,7 +1,7 @@
 Shishir Iyer's Github
 ====================
 
-I'm Shishir, and I'm an CS master's alumni from UCSD and aspiring backend engineer with experience at Intuit.
+I'm Shishir, and I'm a CS master's alumnus from UCSD and backend engineer with experience at Intuit.
 
 Links:
 ---------
